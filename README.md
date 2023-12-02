@@ -1,2 +1,0 @@
-# gamegodot
-jogo teste
